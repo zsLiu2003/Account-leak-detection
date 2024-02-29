@@ -1,0 +1,9 @@
+﻿  sm3.cpp
+  test.cpp
+C:\Z.Sagapo\code\Linux\Crypto\openssl\sm2.h(71,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+C:\Z.Sagapo\code\Linux\Crypto\openssl\sm2.h(239): warning C4172: 返回局部变量或临时变量的地址: out
+C:\Z.Sagapo\code\Linux\Crypto\openssl\sm2.h(208): warning C4715: “SM2::CreatePkey”: 不是所有的控件路径都返回值
+C:\Z.Sagapo\code\Linux\Crypto\openssl\sm3.cpp(18): warning C4172: 返回局部变量或临时变量的地址: sm3_value
+    正在创建库 C:\Z.Sagapo\code\Linux\Crypto\x64\Debug\Crypto.lib 和对象 C:\Z.Sagapo\code\Linux\Crypto\x64\Debug\Crypto.exp
+  Crypto.vcxproj -> C:\Z.Sagapo\code\Linux\Crypto\x64\Debug\Crypto.exe
